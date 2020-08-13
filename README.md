@@ -29,3 +29,5 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+
+1.拷贝这个仓库 2. 克隆这个仓库 3. 更新readme文件
